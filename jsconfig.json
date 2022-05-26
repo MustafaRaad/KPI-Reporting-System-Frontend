@@ -5,6 +5,15 @@
             "@/*": [
                 "src/*"
             ],
+            "@core/*": [
+                "src/@core/*"
+            ],
+            "@axios": [
+                "src/plugins"
+            ],
+            "@themeConfig": [
+                "themeConfig.js"
+            ],
         }
     }
 }
